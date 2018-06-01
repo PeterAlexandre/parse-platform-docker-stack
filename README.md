@@ -77,4 +77,4 @@ This feature will only work if you uncomment the line mentioned on the previous 
 
 ### Hot cloud code changing
 
-This image is prepared for reload the parse server when the
+This image is prepared for reload the parse server when the the cloud code is modified.
