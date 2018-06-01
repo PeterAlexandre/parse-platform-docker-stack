@@ -9,7 +9,7 @@ The stack is composed by the following services:
 
 ## Before you start
 
-You need to install the following packages on you machine:
+You need to install the following packages:
 
 * [docker](https://www.docker.com/community-edition)
 * [docker-compose](https://docs.docker.com/compose/)
